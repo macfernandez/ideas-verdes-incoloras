@@ -1,3 +1,4 @@
 fasttext
 gensim
 numpy
+scipy
