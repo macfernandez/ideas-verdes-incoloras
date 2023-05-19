@@ -1,7 +1,0 @@
-fasttext
-gensim
-numpy
-scipy
-sklearn
-logging
-nltk
